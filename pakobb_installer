@@ -1,5 +1,5 @@
 #!../usr/bin/bash
-merpro=/pakobb_1st
+merpro=pakobb_1st
 locbin=$PREFIX/bin
 
 if [[ -f "$merpro" ]]
